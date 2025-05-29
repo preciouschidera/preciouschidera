@@ -1,9 +1,9 @@
-# 👋🏾 Hey there, I'm Precious Chidera Chukwudi — but you can call me Sunshine ☀️
+# 👋🏾 Hey there, I'm Precious Anthony 
 
 Welcome to my world of **cloud, code, and creativity** 💻🌍✨
 
 ## 💼 Who I Am
-I'm a **DevOps Engineer in the making**, currently crushing projects in:
+I'm a **DevOps Engineer**, currently crushing projects in:
 - 🌐 AWS Cloud
 - 🛠️ Docker & Kubernetes
 - 🤖 Jenkins CI/CD
@@ -13,7 +13,7 @@ I'm a **DevOps Engineer in the making**, currently crushing projects in:
 I transitioned into tech with a background in **healthcare & digital marketing**, and I'm blending my love for precision and people to build **resilient, secure, and scalable infrastructure**.
 
 ## 🚀 What I'm Working On
-I'm wrapping up my DevOps Bootcamp with **5 real-world projects** covering:
+I'm wrapping up my DevOps Bootcamp with **real-world projects** covering:
 - EKS deployments
 - Serverless architecture
 - Infrastructure as Code
@@ -30,18 +30,17 @@ Monitoring:    Prometheus, Grafana
 Languages:     Bash, YAML, Python (basic), Java/PHP (for deployment)
 Tools:         Git, Linux, VSCode, Postman
 
+## 💡 Fun Facts
+- I'm a proud **Naija babe** 🇳🇬 repping **London** 🇬🇧.
+- I vibe to **Mayorkun & Omah Lay** 🎶.
+- I balance my tech life with skincare, fashion, and fire business goals 💅🏾.
 
-<!--
-**preciouschidera/preciouschidera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Let’s Connect
+If you're into **cloud-native tech**, **automation**, or want to chat about breaking into DevOps — I'm your girl. Hit me up:
 
-Here are some ideas to get you started:
+- 💼 [LinkedIn](https://www.linkedin.com/in/precious-anthony-779917367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/) *(replace with your real link)*
+- 🐙 [GitHub](https://github.com/preciouschidera)
+- 📧 Open to collaborations, mentorship, and  DevOps roles!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
